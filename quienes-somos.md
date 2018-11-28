@@ -9,6 +9,9 @@ page_sections:
   block: three-column-1
 - template: simple-footer
   block: footer-1
+menu:
+  main:
+    weight: 2
 published: false
 
 ---
