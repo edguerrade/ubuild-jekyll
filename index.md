@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: "/quienes-somos"
+  - link: "/nosotros"
     link_text: Quienes somos
   - link: "/"
     link_text: Home
