@@ -79,7 +79,7 @@ page_sections:
     creativa e independiente. La compañía trabajó en una fragmento de la obra Attempts
     of her life de Martin Crimp, que se estrenó en Nau Bostik a finales de Julio.</span>
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2018/11/28/2.png"
     alt_text: Customize Blocks
 - template: content-feature
   block: feature-1
@@ -112,7 +112,7 @@ page_sections:
     i “Carta d’una desconeguda” dirigido por Mima Riera.</span>
   headline: "<strong>Begoña Miranda</strong>"
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2018/11/28/2.png"
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
