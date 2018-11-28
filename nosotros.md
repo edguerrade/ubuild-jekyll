@@ -7,13 +7,20 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: "/ubuild-jekyll/nosotros"
-    link_text: Quienes somos
   - link: "/ubuild-jekyll/"
     link_text: Home
+  - link: "/ubuild-jekyll/nosotros"
+    link_text: Quienes somos
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
+- template: navigation-header
+  block: header-1
+  navigation:
+  - link: "/ubuild-jekyll/"
+    link_text: Home
+  - link: "/ubuild-jekyll/nosotros"
+    link_text: Quienes somos
 - template: content-feature
   block: feature-1
   media_alignment: Left
