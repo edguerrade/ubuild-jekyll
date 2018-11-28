@@ -10,7 +10,7 @@ page_sections:
     link_text: Home
   - link: "/ubuild-jekyll/nosotros"
     link_text: Quienes somos
-  logo: "/uploads/2018/11/28/1.png"
+  logo: "/uploads/2018/11/28/layugular.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
