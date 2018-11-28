@@ -46,8 +46,8 @@ page_sections:
     que le ha permitido explorar grupalmente otras formas de adecuar un texto complejo
     y sugestivo a lenguajes expresivos y escenográficos nuevos y atrevidos.</span>'
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2018/11/28/X61idPDx_400x400.jpg"
+    alt_text: Laura Monedero
 - template: content-feature
   block: feature-1
   media_alignment: Right
