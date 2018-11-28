@@ -33,5 +33,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- nosotros.md
 - index.md
+- nosotros.md
