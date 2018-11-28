@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/ubuild-jekyll/nosotros"
     link_text: Quienes somos
-  - link: "/"
+  - link: "/ubuild-jekyll"
     link_text: Home
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
