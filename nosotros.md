@@ -144,7 +144,7 @@ page_sections:
   content: Hello world! ❤︎
 - template: 4-column-footer
   block: footer-2
-  image: "/uploads/2018/06/21/edit.gif"
+  image: "/uploads/2018/06/21/product-shot-1.png"
 menu:
   main:
     weight: 2
