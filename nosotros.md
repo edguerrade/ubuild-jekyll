@@ -62,7 +62,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: Laura Moneder
+    headline: Laura Monedero
     content: '<span class="s1">Laura Monedero es una actriz de teatro, doblaje y locutora,
       nacida en Elda (Alicante) en 1989. Marchó a vivir a Barcelona con 19 años y
       allí desarrolla actualmente su actividad profesional como actriz de doblaje.&nbsp;
